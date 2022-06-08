@@ -1,0 +1,120 @@
+body {
+    margin: 0 auto;
+    padding: 0 auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+.header-titulo {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.header-container {
+    background: black;
+    height: 73px;
+    width: 100%;
+}
+
+
+
+.banner-img {
+    width: 100%;
+    height: 727px;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+
+}
+
+.info-page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: black;
+    width: 100%;
+    height: 348px;
+}
+
+.info {
+
+    font-size: 14px;
+    color: white;
+    width: 50%;
+    height: 50%;
+
+
+}
+
+.imagen-seccion {
+    margin-left: 50px;
+    width: 399px;
+    height: 273px;
+    border-radius: 3px;
+
+}
+
+.icone-seccion {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 348px;
+    background: #1E1A13;
+}
+
+
+.icon-container {
+
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    color:white
+}
+
+.iconos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.iconos-titulo {
+    margin-bottom: 50px;
+    font-size: 40px;
+    color: white;
+}
+
+.galerias-fotos {
+    background: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    height: 348px;
+    
+}
+
+.fotos {
+    width: 316px;
+    height: 202px;
+    border-radius: 3px;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 102px;
+    background: #1E1A13;
+    
+   
+}
+.writ{
+    color:white
+}
